@@ -11,8 +11,7 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({FirstTest.class,SecondTest.class,ThirdTest.class})
-public class App 
-{
-	public class RunTestSuite {
-	}
+
+public class RunTestSuite {
 }
+
