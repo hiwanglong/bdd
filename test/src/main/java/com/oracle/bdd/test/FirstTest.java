@@ -11,4 +11,16 @@ public class FirstTest {
 		String first = "First";
 		assertEquals("First", first);
 	}
+	
+	@Test
+	public void test_firstC1(){
+		String first = "First";
+		assertEquals("First", first);
+	}
+	
+	@Test
+	public void test_firstC2(){
+		String first = "First";
+		assertEquals("First", first);
+	}
 }
